@@ -15,5 +15,5 @@ macOS, Linux 등이 unix를 기반으로 출발한 대표적인 운영체제들�
 
 다음은 unix 운영체제의 계보도입니다.
 
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="assets/images/Unix_history-simple.svg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Unix_history"></img><br/>
+<img src="assets/images/Unix_history-simple.svg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Unix_history"></img>
