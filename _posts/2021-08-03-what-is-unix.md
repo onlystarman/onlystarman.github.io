@@ -1,6 +1,12 @@
 ---
 layout: post
 title:  "unix란"
+
+categories:
+  - computer
+tags:
+  - os
+  - computer
 ---
 
 
