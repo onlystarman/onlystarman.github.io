@@ -1,4 +1,3 @@
-
 ---
 title: "starcraft"
 layout: archive
