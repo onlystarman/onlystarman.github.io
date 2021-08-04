@@ -19,6 +19,34 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "aws" %}
+                        <li><a href="/categories/aws" class="">aws ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "git" %}
+                        <li><a href="/categories/git" class="">git ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "markdown" %}
+                        <li><a href="/categories/markdown" class="">markdown ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "blogdev" %}
+                        <li><a href="/categories/blogdev" class="">blogdev ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
            
         <span class="nav__sub-title">Starcraft</span>
             <ul>
@@ -28,6 +56,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">Physics</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "thermodynamics" %}
+                        <li><a href="/categories/thermodynamics" class="">thermodynamics ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>    
       </li>
   </ul>
 </nav>
