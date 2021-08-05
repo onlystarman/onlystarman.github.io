@@ -5,7 +5,6 @@ title:  "markdown"
 categories:
   - markdown
 tags:
-  - computer
   - grammer
 ---
 
