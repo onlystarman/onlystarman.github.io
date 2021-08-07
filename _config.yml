@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "S.J.SON"
-  avatar           : /assets/images/zzambbong.jpg"
+  avatar           : "/assets/images/zam.jpeg"
   bio              : "Mechanical Engineering"
   location         : "Seoul, Korea"
   email            : pirateson@yonsei.ac.kr
