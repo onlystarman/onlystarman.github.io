@@ -1,5 +1,5 @@
 ---
-layout: posts.html
+layout: archive
 title:  "fighting spirit protoss simcity by J.H.Seok"
 
 categories:

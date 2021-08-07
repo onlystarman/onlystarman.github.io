@@ -1,5 +1,5 @@
 ---
-layout: posts.html
+layout: archive
 title:  "markdown"
 
 categories:
