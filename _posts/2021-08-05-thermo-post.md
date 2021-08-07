@@ -3,7 +3,7 @@ layout: archive
 title:  "Thermodynanmics"
 
 categories:
-  - thermodynamics
+  - THERMODYNAMICS
 tags:
   - science
   - physics

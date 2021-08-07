@@ -3,7 +3,7 @@ layout: archive
 title:  "fighting spirit protoss simcity by J.H.Seok"
 
 categories:
-  - starcraft
+  - STARCRAFT
 tags:
   - simcity
   - starcraft

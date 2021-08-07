@@ -3,7 +3,7 @@ layout: archive
 title:  "markdown"
 
 categories:
-  - markdown
+  - MARKDOWN
 tags:
   - grammer
 ---

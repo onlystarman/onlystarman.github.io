@@ -3,7 +3,7 @@ layout: archive
 title:  "unix란"
 
 categories:
-  - computer
+  - COMPUTER
 tags:
   - os
   - computer
