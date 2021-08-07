@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JottBug'_'"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "G.H.Lee, D.Y.Won, H.W.Kim, S.J.Son"
+name                     : "Mechanical Engineering Student"
 description              : "Physics, Computer, Starcraft"
 url                      : "https://onlystarman.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Y-17"
+  name             : "S.J.SON"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "G.H.Lee, D.Y.Won, H.W.Kim, S.J.Son"
+  bio              : "S.J.Son"
   location         : "Seoul, Korea"
-  email            : gh003008@yonsei.ac.kr, wdy0308@yonsei.ac.kr, pby04188@naver.com, pirateson@yonsei.ac.kr
+  email            : pirateson@yonsei.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
