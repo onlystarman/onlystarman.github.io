@@ -283,8 +283,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar_main: true
       read_time: false
       comments: # true
       share: true
       related: true
+      sidebar_main: true
+
