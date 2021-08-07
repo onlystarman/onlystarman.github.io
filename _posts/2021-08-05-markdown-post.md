@@ -1,5 +1,5 @@
 ---
-layout: default.html
+layout: posts.html
 title:  "markdown"
 
 categories:
