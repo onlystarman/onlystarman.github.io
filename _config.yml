@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "INTERN"
+title                    : "JottBug'_'"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "G.H.Lee, D.Y.Won, H.W.Kim, S.J.Son"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "G.H.Lee, D.Y.Won, H.W.Kim, S.J.Son"
+  name             : "Y-17"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Y-17"
+  bio              : "G.H.Lee, D.Y.Won, H.W.Kim, S.J.Son"
   location         : "Seoul, Korea"
   email            : gh003008@yonsei.ac.kr, wdy0308@yonsei.ac.kr, pby04188@naver.com, pirateson@yonsei.ac.kr
   links:
