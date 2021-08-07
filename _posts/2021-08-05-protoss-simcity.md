@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 title:  "fighting spirit protoss simcity by J.H.Seok"
 
 categories:
