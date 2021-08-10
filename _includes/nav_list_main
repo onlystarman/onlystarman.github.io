@@ -47,6 +47,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.MACHINE_LEARNING %}
+                    {% if category[0] == "MACHINE_LEARNING" %}
+                        <li><a href="/categories/machinelearning" class="">BLOGDEV ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
            
         <span class="nav__sub-title">STARCRAFT</span>
             <ul>
