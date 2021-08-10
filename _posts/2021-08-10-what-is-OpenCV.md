@@ -1,8 +1,6 @@
 ---
 layout: archive
 title:  "What is OpenCV?"
-date : 2021-08-11
-last_modified_at: 2021-08-11
 
 categories:
   - MACHINELEARNING
