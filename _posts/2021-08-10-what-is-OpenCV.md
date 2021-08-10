@@ -33,13 +33,8 @@ ex)
 
 OpenCV supports several code languages such as C++, Python, Java and Matlab. So it is usable in various fields.
 
-
-
-
-
-
-
-
+***
+***
 If you are interested in more details, the link down below would help you understand more about OpenCV.
 
 OpenCV official website
