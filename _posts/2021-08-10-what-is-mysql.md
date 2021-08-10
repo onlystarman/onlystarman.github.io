@@ -8,11 +8,15 @@ tags:
   - computer
   - data
 ---
-![1](/assets/images/20210810/1.png)
 
 Before we jump into MySQL we need to think about why and for what MySQL has come out.
 
+![1](/assets/images/20210810/1.png)
+
+
 Right after the first computer has been made, people using a computer needed an effective way to save data.
+
+![c](/assets/images/20210810/c.png)
 
 Therefore, a very familiar system has been developed whose name is 'file'.
 
