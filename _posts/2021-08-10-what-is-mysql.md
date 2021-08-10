@@ -38,7 +38,7 @@ Many scientists thought that this was an ineffective way to handle data, so they
 
 According to these kinds of needs, the software they made was MySQL which is now one of the biggest database software in the world.
 
-![2](/assets/images/20210810/2.png)
+![22](/assets/images/20210810/22.png)
 
 ***
 ***
