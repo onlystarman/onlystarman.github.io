@@ -24,8 +24,6 @@ Axis : 각 차원(괄호)마다 indexing 한 숫자라고 이해 하면 좋다. 
 
 ![1](/assets/images/gun0810/1.png)
 
-![2](/assets/images/gun0810/2.PNG)
-
 ***
 ***
 2. Broadcasting
@@ -34,7 +32,7 @@ Axis : 각 차원(괄호)마다 indexing 한 숫자라고 이해 하면 좋다. 
 
 matrix나 tensor의 multiplication을 할때는 shape을 확인하고 행렬곱을 해주는 것이 안전하다. 
 * 를 사용한 일반 곱셈은 broadcasting 되어 elementwise 곱셈을 하기 때문에 잘못된 결과를 가져올 수 있다. 
-
+![2](/assets/images/gun0810/2.PNG)
 ![3](/assets/images/gun0810/3.PNG)
 
 ***
