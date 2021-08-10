@@ -1,4 +1,4 @@
 ---
 layout: posts.html
-title:  "기계떡상기원!"
+title:  "좀 돼라"
 ---
