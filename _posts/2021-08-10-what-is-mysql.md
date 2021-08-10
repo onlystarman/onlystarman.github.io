@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "What is MySQL"
+title:  "What is MySQL?"
 
 categories:
   - COMPUTER
