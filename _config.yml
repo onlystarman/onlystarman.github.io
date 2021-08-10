@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JottBug'_'"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "S.J.Son"
+name                     : "S.J.Son \n G.H.Lee"
 description              : "Physics, Computer, Starcraft"
 url                      : "https://onlystarman.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "S.J.SON"
+  name             : "S.J.SON \n G.H.Lee"
   avatar           : "/assets/images/realzzam.jpeg"
   bio              : "Mechanical Engineering"
   location         : "Seoul, Korea"
