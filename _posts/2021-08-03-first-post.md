@@ -1,4 +1,4 @@
 ---
 layout: posts.html
-title:  "좀 돼라"
+title:  "이젠 됨?"
 ---
