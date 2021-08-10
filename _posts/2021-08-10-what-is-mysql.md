@@ -8,6 +8,8 @@ tags:
   - computer
   - data
 ---
+![1](/assets/images/20210810/1.png)
+
 Before we jump into MySQL we need to think about why and for what MySQL has come out.
 
 Right after the first computer has been made, people using a computer needed an effective way to save data.
@@ -36,6 +38,8 @@ Many scientists thought that this was an ineffective way to handle data, so they
 
 According to these kinds of needs, the software they made was MySQL which is now one of the biggest database software in the world.
 
+![2](/assets/images/20210810/2.png)
+
 ***
 ***
 
@@ -43,8 +47,19 @@ But one might have a question.
 
 If the purpose of MySQL is for handling data, people might wonder what's the difference between Excel and MySQL.
 
+![e](/assets/images/20210810/e.png)
+![l](/assets/images/20210810/l.png)
+
+
 One of the biggest differences among the two is that you can handle data on MySQL by code, where Excel doesn't.
 
 This is a crucial difference because if you can code lines for handling data, you can automate most of the parts of your tasks which you have to do on your own before using such software as MySQL.
+
+If you are interested in more details, the link down below would help you understand more about MySQL.
+
+MySQL official website
+
+<https://www.oracle.com/mysql/>
+
 
 S.J.Son
