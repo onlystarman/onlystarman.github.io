@@ -22,7 +22,7 @@ Shape : 각 차원마다 element의 개수를 표현한다.
 
 Axis : 각 차원(괄호)마다 indexing 한 숫자라고 이해 하면 좋다. axis=0 이 가장 바깥의 괄호 이고, axis=-1은 가장 안쪽의 괄호를 나타낸다.
 
-![1](/assets/images/gun0810/1.png)
+![1](/assets/images/gun0810/1.PNG)
 
 ***
 ***
