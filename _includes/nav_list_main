@@ -48,9 +48,9 @@
                 {% endfor %}
             </ul>
             <ul>
-                {% for category in site.MACHINE_LEARNING %}
-                    {% if category[0] == "MACHINE_LEARNING" %}
-                        <li><a href="/categories/machinelearning" class="">BLOGDEV ({{category[1].size}})</a></li>
+                {% for category in site.categories %}
+                    {% if category[0] == "MACHINELEARNING" %}
+                        <li><a href="/categories/machinelearning" class="">MACHINELEARNING ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

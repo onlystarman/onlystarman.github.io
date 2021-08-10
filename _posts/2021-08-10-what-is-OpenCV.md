@@ -3,7 +3,7 @@ layout: archive
 title:  "What is OpenCV?"
 
 categories:
-  - MACHINE_LEARNING
+  - MACHINELEARNING
 tags:
   - computer
   - AI
