@@ -1,4 +1,4 @@
 ---
-layout: posts.html
+layout: single
 title:  "이젠 됨?"
 ---
