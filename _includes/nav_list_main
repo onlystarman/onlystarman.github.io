@@ -49,8 +49,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "MACHINELEARNING" %}
-                        <li><a href="/categories/machinelearning" class="">MACHINELEARNING ({{category[1].size}})</a></li>
+                    {% if category[0] == "MACHINE_LEARNING" %}
+                        <li><a href="/categories/machinelearning" class="">MACHINE_LEARNING ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -68,6 +68,14 @@
                 {% for category in site.categories %}
                     {% if category[0] == "THERMODYNAMICS" %}
                         <li><a href="/categories/thermodynamics" class="">THERMODYNAMICS ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">RESEARCH</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MACHINE_VISION" %}
+                        <li><a href="/categories/machinevision" class="">MACHINE_VISION ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>    
